@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inventory
+comment0.text=\r\n\ Permet\ de\ stocker\ la\ liste\ des\ objet\ ramasser\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Inventory()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Inventaire\r\n
+comment2.params=theObjet
+comment2.target=void\ add(Objet)
+comment3.params=theObjet
+comment3.target=void\ delete(Objet)
+comment4.params=
+comment4.target=Objet\ showList()
+numComments=5

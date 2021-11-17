@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Etage
+comment0.text=\r\n\ The\ class\ "Etage"\ permits\ to\ create\ and\ manage\ the\ various\ levels\ of\r\n\ the\ dungeon.\ A\ level\ is\ composed\ of\ multiple\ rooms\ (with\ a\ minimum\ \r\n\ of\ 5\ rooms).\r\n\r\n\ @author\ (Group3)\r\n\ @version\ (version1)\r\n
+comment1.params=number
+comment1.target=Etage(int)
+comment1.text=\r\n\ Object\ constructor\ of\ the\ class\ Etage\ \:\r\n\ Create\ a\ level\ described\ by\ its\ "description".\ Initially,\ it\ \r\n\ has\ no\ exits.\ "description"\ is\ something\ like\ "first\ level"\ or\r\n\ "second\ level".\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getArrayList()
+numComments=3

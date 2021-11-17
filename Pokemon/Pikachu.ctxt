@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Hero\ ici.\r\n\r\n\ @author\ (group\ 3)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=cap1\ pvMax\ vit\ attack
+comment1.target=Pikachu(Attaque,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Hero\r\n
+comment2.params=attPlus
+comment2.target=void\ augmentAtt(int)
+comment2.text=\r\n\ Method\ that\ augment\ attack\ for\ a\ int\ amount\r\n
+comment3.params=pvPlus
+comment3.target=void\ augmentPv(int)
+comment3.text=\r\n\ Method\ that\ augment\ pvMax\ for\ a\ int\ amount\r\n
+comment4.params=
+comment4.target=void\ useBoost()
+comment4.text=\r\n\ Method\ to\ use\ a\ boost\ from\ the\ inventory\ \r\n\ check\ the\ inventory,\ and\ modify\ the\ attack\ or\ pvMax\ attributes\r\n
+comment5.params=
+comment5.target=void\ eatBerry()
+comment5.text=\r\n\ Method\ to\ use\ a\ berry,\ special\r\n
+comment6.params=newcap
+comment6.target=void\ addCapacity(Attaque)
+numComments=7

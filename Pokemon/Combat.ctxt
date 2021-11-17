@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Combat
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Attaque\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Combat()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Attaque\r\n
+comment2.params=
+comment2.target=int\ Tonnerre()
+comment3.params=
+comment3.target=int\ Charge()
+comment4.params=
+comment4.target=int\ Queue_de_fer()
+comment5.params=
+comment5.target=int\ Vive_attaque()
+comment6.params=
+comment6.target=int\ fatal_foudre()
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=\r\n\ This\ class\ permits\ to\ create\ and\ manage\ keys,\ they\ are\ used\ to\ unlock\ locks.\r\n\r\n\ @author\ (Group3)\r\n\ @version\ (version1)\r\n
+comment1.params=
+comment1.target=Key()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Key\r\n
+numComments=2

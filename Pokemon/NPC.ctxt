@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ Class\ for\ non\ player\ character\ (passives).\ different\ of\ ennemi\ class.\r\n\r\n\ @author\ (Arthur\ Meslin)\r\n\ @version\ (16/11/2021)\r\n
+comment1.params=name\ description
+comment1.target=NPC(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ NPC\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ M\u00E9thode\ getName\r\n\r\n\ @return\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ M\u00E9thode\ getDescription\r\n\r\n\ @return\ description\r\n
+numComments=4
