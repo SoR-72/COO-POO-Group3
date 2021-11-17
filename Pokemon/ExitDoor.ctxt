@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ExitDoor
+comment0.text=\r\n\ This\ class\ permits\ to\ create\ and\ manage\ doors\ of\ exits\ \:\ locking,\r\n\ unlocking\ them.\r\n\r\n\ @author\ (Group3)\r\n\ @version\ (version1)\r\n
+comment1.params=description
+comment1.target=ExitDoor(java.lang.String)
+comment1.text=\r\n\ Object\ constructor\ of\ the\ class\ ExitDoor\ \:\r\n\ Create\ an\ exitDoor\ described\ by\ its\ "description".\ Initially,\ \r\n\ it\ is\ locked.\r\n
+comment2.params=
+comment2.target=boolean\ getLocked()
+comment2.text=\r\n\ Method\ getLocked\ \:\ return\ the\ boolean\ of\ the\ current\r\n\ door\ to\ know\ if\ it\ is\ locked\ or\ not\r\n\ \r\n\ @return\ the\ boolean\ locked\ of\ the\ door\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDoorString()
+comment3.text=\r\n\ Method\ getDoorString\ \:\ return\ the\ String\ of\ the\ door\r\n\ \r\n\ @return\ the\ String\ of\ the\ door\r\n
+numComments=4

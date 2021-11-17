@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Seller
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Seller\ ici.\r\n\r\n\ @author\ (Arthur\ MESLIN)\r\n\ @version\ (16/11/2021)\r\n
+comment1.params=name\ description
+comment1.target=Seller(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Marchand\r\n
+comment2.params=treasure
+comment2.target=java.lang.String\ getCapacity(java.lang.String)
+comment2.text=\r\n\ M\u00E9thode\ trade\r\n\r\n\ @param\ treasure\ treasure\ given\ to\ the\ seller\r\n\ @return\ the\ capacity\ corresponding\ to\ the\ parameter\ according\ to\ the\ hashmap\r\n
+numComments=3

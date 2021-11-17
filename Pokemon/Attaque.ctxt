@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Attaque
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Attaque\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=name\ damage
+comment1.target=Attaque(java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Attaque\r\n
+comment2.params=
+comment2.target=int\ getDamage()
+comment2.text=GET\ Method\ Propertie\ damage
+comment3.params=damage
+comment3.target=void\ setDamage(int)
+comment3.text=SET\ Method\ Propertie\ damage
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=GET\ Method\ Propertie\ name
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment5.text=SET\ Method\ Propertie\ name
+numComments=6

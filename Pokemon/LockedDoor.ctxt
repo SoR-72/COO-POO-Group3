@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LockedDoor
+comment0.text=\r\n\ Extend\ of\ exit\ doors\ \:\ doors\ that\ are\ locked\ with\ a\ lock.\r\n\ A\ lock\ will\ be\ on\ this\ door\ and\ it\ can\ be\ unlock\ by\ a\ key.\ \r\n\r\n\ @author\ (Group3)\r\n\ @version\ (version1)\r\n
+comment1.params=description
+comment1.target=LockedDoor(java.lang.String)
+comment1.text=\r\n\ Object\ constructor\ of\ the\ class\ LockedDoor\ \:\r\n\ Create\ a\ LockedDoor\ described\ by\ its\ "description".\ Initially,\ \r\n\ it\ is\ locked.\r\n
+comment2.params=
+comment2.target=void\ unlock()
+comment2.text=\r\n\ Method\ unlock\ \:\ permits\ to\ unlock\ the\ locked\ door\r\n\ \r\n\ @change\ locked\ parameter\ to\ true\r\n
+numComments=3

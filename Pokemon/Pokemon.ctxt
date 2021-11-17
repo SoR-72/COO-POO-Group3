@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pokemon
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Pokemon\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=cap1\ pvMax\ vit\ attack
+comment1.target=Pokemon(Attaque,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Pokemon\r\n
+comment2.params=
+comment2.target=int\ getPv()
+comment2.text=\r\n\ getter\ of\ pvReal\r\n
+comment3.params=
+comment3.target=int\ getPvMax()
+comment3.text=\r\n\ getter\ of\ pvMax\r\n
+comment4.params=
+comment4.target=int\ getAttack()
+comment4.text=\r\n\ getter\ of\ attack\r\n
+comment5.params=
+comment5.target=java.lang.String\ listOfAttacks()
+comment5.text=\r\n\ getter\ of\ the\ Hashmap\ of\ capacities\ \r\n
+numComments=6
